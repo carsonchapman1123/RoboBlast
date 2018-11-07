@@ -1,3 +1,3 @@
 # RoboBlast
 
-This was the final project for CS32 at UCLA. I was given a 56 page document describing the game. I received 100% on the assignment. In order to run this game on Mac, one must be running XQuartz while running the code, which is available at https://www.xquartz.org/.
+This was the final project for CS32 at UCLA. I was given a 56 page document describing the game. I received 100% on the assignment. In order to run this game on Mac, one must be running XQuartz while running the code, which is available at https://www.xquartz.org/. The files I worked on were Actor.cpp, Actor.h, StudentWorld.cpp, and StudentWorld.h. The other files were provided by my professor.
